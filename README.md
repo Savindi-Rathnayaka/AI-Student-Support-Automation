@@ -10,7 +10,8 @@ This project is an AI-powered student support automation system built using n8n 
 
 ### Workflow Overview
 
-![AI Student Support Automation Workflow](workflow.png)
+![AI Student Support Automation Workflow](https://github.com/Savindi-Rathnayaka/AI-Student-Support-Automation/blob/main/Screenshot%202026-10-19%20213340.png
+https://github.com/Savindi-Rathnayaka/AI-Student-Support-Automation/blob/main/Screenshot%202026-10-19%20213052.png)
 ## 🎯 Project Objectives
 
 * Automate responses to student questions using AI.
