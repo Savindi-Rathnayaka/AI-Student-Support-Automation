@@ -6,7 +6,11 @@ An AI-powered student support automation system built with n8n and Google Sheets
 ## 📌 Project Overview
 
 This project is an AI-powered student support automation system built using n8n and Google Sheets. It helps students receive simple, understandable answers to their academic questions through an automated workflow.
-(https://github.com/Savindi-Rathnayaka/AI-Student-Support-Automation/blob/main/Screenshot%202026-10-19%20213052.png)
+## 🎥 Project Demonstration
+
+### Workflow Overview
+
+![AI Student Support Automation Workflow](workflow.png)
 ## 🎯 Project Objectives
 
 * Automate responses to student questions using AI.
